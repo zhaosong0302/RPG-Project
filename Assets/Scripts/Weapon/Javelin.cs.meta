@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 3fefd6dc90b0d274a86436e57c2043f3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - javelin: {fileID: 7727427154360243953, guid: 5e3c64d19f9c6ae4fb9e4b2e25d23290, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

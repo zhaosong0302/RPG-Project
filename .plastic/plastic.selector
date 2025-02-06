@@ -1,0 +1,4 @@
+repository "RPG@wechat_os_qy03kegbisqwvbvuxzmv89lry@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

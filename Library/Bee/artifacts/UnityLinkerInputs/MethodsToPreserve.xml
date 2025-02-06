@@ -1,0 +1,11 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="ItemDetailUI">
+			<method name="OnUseButtonClick"/>
+		</type>
+		<type fullname="ItemUI">
+			<method name="OnClick"/>
+			<method name="OnClick"/>
+		</type>
+	</assembly>
+</linker>
