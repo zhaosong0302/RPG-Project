@@ -37,6 +37,8 @@ RPG的部分主要系统，背包系统、对话系统、战斗系统、经验�
 点击展示详细信息
 ![QXQ66(S%R$06MJDFK38`C55](https://github.com/user-attachments/assets/34750a8b-ced6-4711-a74f-3446b1a64b8e)
 ![G2Y{J~N)V)`F7K4M0YG86ET](https://github.com/user-attachments/assets/6bc2aeea-7271-4204-a01e-3856f0c30856)
+![6XPEQ5CVN_04`AIJN%`UTTK](https://github.com/user-attachments/assets/c00787f4-90f5-4322-bfbf-72f823567890)
+
 
 战斗系统
 掉落拾取
