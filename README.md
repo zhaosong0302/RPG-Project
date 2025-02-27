@@ -4,7 +4,7 @@ RPG的部分主要系统，背包系统、对话系统、战斗系统、经验�
 
 属性系统
 ![R5IJ19ZX35PAL%EL WIVT$1](https://github.com/user-attachments/assets/14f90319-f348-4b18-81f2-e625aa928b20)
-升级后属性改变
+升级
 ![%P2) QB8@8FDG(8I}M@~2$M](https://github.com/user-attachments/assets/a65bfa91-200d-4d1a-8cb2-c859d10c0550)
 
 
