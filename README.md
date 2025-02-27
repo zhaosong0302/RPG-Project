@@ -48,6 +48,6 @@ RPG的部分主要系统，背包系统、对话系统、战斗系统、经验�
 
 战斗系统
 
-击杀后掉落以及凋落物交互
+击杀后掉落以及掉落物交互，与背包系统联系
 ![84K%KTE WA%((Q{LY 5}IZ0](https://github.com/user-attachments/assets/0fa4adb0-0d18-4aed-9048-ec6e62442803)
 
